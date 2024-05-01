@@ -5,8 +5,7 @@
   justify-content: center;
   height: 100vh;
   background-color: #282c34; /* Dark blue background color */
-  background-image: url('https://patch.com/img/cdn20/shutterstock/93127/20201104/123506/styles/patch_image/public/shutterstock-794518426___04002228563.jpg'); /* Replace 'your-image.jpg' with the path to your image */
-  background-size cover;
+  background-image: url('https://patch.com/img/cdn20/shutterstock/93127/20201104/123506/styles/patch_image/public/shutterstock-794518426___04002228563.jpg'); 
   background-position: center;
   color: #ffffff; /* White text color */
 }
@@ -39,7 +38,7 @@
   justify-content: center;
   height: 100vh;
   background-color: #282c34; /* Dark blue background color */
-  background-image: url('your-image.jpg'); /* Replace 'your-image.jpg' with the path to your image */
+  background-image: url('https://patch.com/img/cdn20/shutterstock/93127/20201104/123506/styles/patch_image/public/shutterstock-794518426___04002228563.jpg'); 
   background-size: cover;
   background-position: center;
   color: #ffffff; /* White text color */
