@@ -4,7 +4,11 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #f1f1f1;
+  background-color: #282c34; /* Dark blue background color */
+  background-image: url('https://patch.com/img/cdn20/shutterstock/93127/20201104/123506/styles/patch_image/public/shutterstock-794518426___04002228563.jpg'); /* Replace 'your-image.jpg' with the path to your image */
+  background-size cover;
+  background-position: center;
+  color: #ffffff; /* White text color */
 }
 
 .welcome-message {
@@ -14,8 +18,8 @@
 }
 
 .login-button {
-  background-color: #007bff;
-  color: #fff;
+  background-color: #007bff; /* Blue button color */
+  color: #ffffff; /* White text color */
   font-size: 1.2rem;
   border: none;
   border-radius: 0.3rem;
@@ -25,9 +29,8 @@
 }
 
 .login-button:hover {
-  background-color: #0069d9;
+  background-color: #0069d9; /* Darker blue on hover */
 }
-
 
 .connected-container {
   display: flex;
@@ -35,7 +38,11 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #f1f1f1;
+  background-color: #282c34; /* Dark blue background color */
+  background-image: url('your-image.jpg'); /* Replace 'your-image.jpg' with the path to your image */
+  background-size: cover;
+  background-position: center;
+  color: #ffffff; /* White text color */
 }
 
 .connected-header {
@@ -51,8 +58,8 @@
 }
 
 .connected-button {
-  background-color: #007bff;
-  color: #fff;
+  background-color: #007bff; /* Blue button color */
+  color: #ffffff; /* White text color */
   font-size: 1.2rem;
   border: none;
   border-radius: 0.3rem;
@@ -63,7 +70,7 @@
 }
 
 .connected-button:hover {
-  background-color: #0069d9;
+  background-color: #0069d9; /* Darker blue on hover */
 }
 
 .connected-contract-address {
@@ -71,11 +78,10 @@
   text-align: center;
 }
 
-
 .candidates-table {
   border-collapse: collapse;
   width: 50%;
-  text-align:center;
+  text-align: center;
 }
 
 .candidates-table th, .candidates-table td {
@@ -96,4 +102,5 @@ input[type=number] {
   font-size: 16px;
   margin-bottom: 10px;
 }
+
 
