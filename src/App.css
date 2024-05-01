@@ -6,7 +6,6 @@
   height: 100vh;
   background-color: #282c34; /* Dark blue background color */
   background-image: url('https://patch.com/img/cdn20/shutterstock/93127/20201104/123506/styles/patch_image/public/shutterstock-794518426___04002228563.jpg'); 
-  background-position: center;
   color: #ffffff; /* White text color */
 }
 
@@ -28,7 +27,7 @@
 }
 
 .login-button:hover {
-  background-color: #0069d9; /* Darker blue on hover */
+  background-color: #f4f8e3;
 }
 
 .connected-container {
@@ -39,8 +38,6 @@
   height: 100vh;
   background-color: #282c34; /* Dark blue background color */
   background-image: url('https://patch.com/img/cdn20/shutterstock/93127/20201104/123506/styles/patch_image/public/shutterstock-794518426___04002228563.jpg'); 
-  background-size: cover;
-  background-position: center;
   color: #ffffff; /* White text color */
 }
 
